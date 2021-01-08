@@ -1,0 +1,4 @@
+#Fri Jul 12 00:01:17 BRT 2019
+base.0=D\:\\Flixte\\Flixte.APP\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
